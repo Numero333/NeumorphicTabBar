@@ -4,6 +4,10 @@
 This project demonstrates how to create a custom tab bar in SwiftUI, leveraging animations and modern design techniques such as neumorphism. 
 The default tab bar in SwiftUI is hidden and replaced with a custom implementation, offering a unique and visually appealing user interface.
 
+![Simulator Screen Recording - iPhone 15 Pro - 2024-06-04 at 12 33 41](https://github.com/Numero333/NeumorphicTabBar/assets/80432096/c32232b1-00db-494e-917f-c8c53c5dccff)
+
+
+
 ### Features ###
 Custom Tab Bar: A fully custom tab bar that replaces the default SwiftUI tab bar.
 Neumorphism Design: Applies neumorphism design to the tab bar for a modern look and feel.
